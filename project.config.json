@@ -1,0 +1,15 @@
+{
+  "description": "一笔画-连接所有方块",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "compileType": "game",
+  "libVersion": "2.19.4",
+  "appid": "wxb8c989065f122516",
+  "projectname": "one-stroke-game",
+  "condition": {}
+}
